@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(cmd /c \"dir /a C:\\\\Users\\\\guigo\\\\consumidor-sintetico-push\")",
+      "PowerShell(cmd /c \"dir /a /s C:\\\\Users\\\\guigo\\\\consumidor-sintetico-push\")",
+      "PowerShell(cmd /c \"dir /a C:\\\\Users\\\\guigo\\\\.claude\\\\projects\\\\C--Users-guigo-consumidor-sintetico-push\\\\memory\")"
+    ]
+  }
+}
